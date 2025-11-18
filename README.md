@@ -1,5 +1,5 @@
-# Developer Survey Dashboard - IBM Capstone Project
-
+# Stack Overflow Developer Survey Dashboard - IBM Capstone Project
+## Survey Analytics Project
 This repository contains files related to the Developer Survey Analysis dashboard created as part of the IBM Data Analytics Capstone Project.
 
 ## Contents
