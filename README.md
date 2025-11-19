@@ -4,9 +4,9 @@ This repository contains files related to the Stack Overflow Developer Survey An
 
 ## Contents
 - `dashboard.pdf` / `screenshots/` : Exported images of the Cognos dashboard visualizations
-- `data/` : ...
+- `data/` : command to download datasets
 - `scripts/` : Python scripts used for data cleaning, analysis, and visualization
-- `README.md` : ...
+- `README.md` : 
 
 ## Overview
 The project analyzes survey data to uncover trends in:
