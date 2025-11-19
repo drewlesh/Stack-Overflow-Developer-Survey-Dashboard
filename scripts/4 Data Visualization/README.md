@@ -7,7 +7,7 @@ This folder contains all Jupyter notebooks for **Section 4: Data Visualization**
 
 ## 📁 Contents
 
-Below are the eight notebooks included in this section:
+Eight notebooks are included in this section:
 
 ### **1. `Histograms.ipynb`**
 
@@ -31,7 +31,7 @@ Shows how to use boxplots to:
 
 ### **3. `Scatterplots.ipynb`**
 
-Demonstrates how to explore relationships between two variables using:
+How to explore relationships between two variables using:
 
 * Basic scatter plots
 * Trend visualization
@@ -54,8 +54,8 @@ Extends scatterplots by adding a third dimension using bubble size. Topics inclu
 Explains how to represent categorical proportions using:
 
 * Pie charts
-* Donut charts (if applicable)
 * Interpreting relative percentages
+* Demographics applicability
 
 ---
 
