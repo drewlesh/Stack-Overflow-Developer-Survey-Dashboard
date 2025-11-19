@@ -1,6 +1,6 @@
 # Data Wrangling – README
-Drew Lesh \n
-10/27/25 - 10/28/25
+### Drew Lesh
+### 10/27/25 - 10/28/25
 
 This folder contains all Jupyter notebooks for **Section 2: Data Wrangling** of the IBM Data Analyst Capstone Project. These notebooks cover the essential techniques for identifying issues in raw data, correcting them, and preparing datasets for deeper analysis.
 
