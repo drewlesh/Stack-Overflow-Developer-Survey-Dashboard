@@ -1,6 +1,6 @@
 # Data Visualization – README
 #### Drew Lesh
-#### 
+#### 11/8 - 11/18
 This folder contains all Jupyter notebooks for **Section 4: Data Visualization** of the IBM Data Analyst Capstone Project. These notebooks demonstrate how to create clear and meaningful visualizations to help interpret patterns, trends, and relationships within a dataset.
 
 ---
