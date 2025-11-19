@@ -3,7 +3,7 @@
 This repository contains files related to the Stack Overflow Developer Survey Analysis dashboard created as part of the IBM Data Analytics Capstone Project.
 
 ## Contents
-- `dashboard.pdf` / `screenshots/` : Exported images of the Cognos dashboard visualizations
+- `dashboard.png` / `screenshots/` : Exported images of the Cognos dashboard visualizations
 - `data/` : command to download datasets
 - `scripts/` : Python scripts used for data cleaning, analysis, and visualization
 - `README.md` : 
