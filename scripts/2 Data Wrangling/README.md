@@ -1,13 +1,14 @@
 # Data Wrangling – README
 Drew Lesh
 10/27/25 - 10/28/25
+
 This folder contains all Jupyter notebooks for **Section 2: Data Wrangling** of the IBM Data Analyst Capstone Project. These notebooks cover the essential techniques for identifying issues in raw data, correcting them, and preparing datasets for deeper analysis.
 
 ---
 
 ## 📁 Contents
 
-Below are the six notebooks included in this section:
+Six notebooks are included in this section:
 
 ### **1. `FindingDups.ipynb`**
 
@@ -79,17 +80,3 @@ A comprehensive notebook that ties together all the concepts in this section, de
 * NumPy
 
 ---
-
-## 🎯 Purpose of This Section
-
-By completing these notebooks, you will:
-
-* Learn to detect and remove duplicate data
-* Identify and handle missing values
-* Normalize numerical features for analysis or modeling
-* Produce clean, reliable datasets for the next steps in the project
-
----
-
-If you add new notebooks or update your workflow, feel free to update this README to reflect those changes.
-
