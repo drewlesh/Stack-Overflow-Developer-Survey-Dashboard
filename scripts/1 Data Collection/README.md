@@ -1,6 +1,6 @@
 # Data Collection – README
-Drew Lesh
-11/4/24 - 11/5/25 
+#### Drew Lesh
+#### 10/4/24 - 10/10/25 
 
 This folder contains all Jupyter notebooks for **Section 1: Data Collection** of the IBM Data Analyst Capstone Project. These notebooks walk through key techniques used to gather, inspect, and understand raw data before analysis.
 
